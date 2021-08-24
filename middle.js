@@ -39,3 +39,5 @@ return [array[index - 1],array[index]]
 console.log(middle([1,2,3,7,8]))
 console.log(middle([4,5,]))
 console.log(middle([1, 2, 3, 4, 5, 6]))
+
+module.exports = middle 

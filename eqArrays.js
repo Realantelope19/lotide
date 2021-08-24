@@ -24,3 +24,5 @@ for(var i = 0; i <= array1.length; i++) {
 
 assertEqual(eqArrays([1, 2, 3], [1, 2, 3]), true); // => should PASS
 assertEqual(eqArrays(["1", "2", "3"], ["1", "2", 3])) // => false
+
+module.exports = eqArrays
