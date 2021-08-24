@@ -1,5 +1,5 @@
 {
-  "name": "lotide",
+  "name": "@realantelope19/lotide",
   "version": "1.0.0",
   "description": "",
   "main": "assertArraysEqual.js",
@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/Realantelope19/lotide.git"
   },
-  "author": "",
+  "author": "Eniola Busari",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Realantelope19/lotide/issues"
